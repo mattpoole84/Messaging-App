@@ -1,0 +1,5 @@
+email,first name,last name,phone,email configuration id,text message configuration id
+test@test.com,first1,last1,123-456-7890,3,1 
+test@test.com,first2,last2,123-456-7890,4,2
+test@test.com,first3,last3,123-456-7890,5,3
+test@test.com,first4,last4,123-456-7890,6,4

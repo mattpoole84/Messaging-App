@@ -1,0 +1,11 @@
+flask
+celery
+redis
+flask-api
+flask-sqlalchemy
+flask-serialize
+mysqlclient
+pandas
+mandrill
+pytest
+twilio
